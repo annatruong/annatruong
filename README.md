@@ -5,7 +5,7 @@ I'm currently learning C++ and working on small random game projects in my spare
 </p>
 
 <h2>💻 Languages and Tools</h2>
-(https://skillicons.dev/icons?i=js,nodejs,ts,html,css,bootstrap,prisma,jest,postman,gcp,git)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,nodejs,ts,html,css,bootstrap,prisma,jest,postman,gcp,git)](https://skillicons.dev)
 
 <!--
 **annatruong/annatruong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
