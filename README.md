@@ -5,7 +5,6 @@ My journey into tech began while working as an Account Manager at a marketing ag
 After some time in engineering, I'm now channeling my analytical mindset and technical skills into the world of data. I'm currently deepening my expertise through hands-on courses in data analysis, and working on projects that blend data storytelling with real-world insights.<br><br>
 
 I'm passionate about uncovering meaningful patterns in data, and I'm excited to contribute to data-driven decision making in my next role.<br><br>
-I'm currently building my front-end knowledge through working on personal projects in my spare time.<br><br>
 </p>
 
 <h2>💻 Languages and Tools</h2>
