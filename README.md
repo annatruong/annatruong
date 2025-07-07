@@ -1,6 +1,10 @@
 <h1>Anna Truong </h1>
-<p>Hello! 👋🏻 I'm Anna - a Backend Engineer.<br><br>
-My coding journey began when I was working as an Account Manager at a marketing agency a few years back. Whilst finding ways to improve productivity, I ventured into automating mundane tasks, inadvertently igniting my passion for technology. At my current workplace, I've been focusing on building resilient data warehouses and developing business tailored reporting apps. Additionally, I oversee the deployment of these apps on Google Cloud Platform (GCP), ensuring robust CI/CD pipelines to streamline our development workflows.<br><br>
+<p>Hello! 👋🏻 a former Software Engineer now pivoting into Data Analytics.<br><br>
+My journey into tech began while working as an Account Manager at a marketing agency, where I started automating manual processes to improve efficiency. That curiosity turned into a career in software development, where I focused on backend engineering, building data warehouses, developing tailored business applications, and deploying solutions on Google Cloud Platform with strong CI/CD practices.<br><br>
+
+After some time in engineering, I'm now channeling my analytical mindset and technical skills into the world of data. I'm currently deepening my expertise through hands-on courses in data analysis, and working on projects that blend data storytelling with real-world insights.<br><br>
+
+I'm passionate about uncovering meaningful patterns in data, and I'm excited to contribute to data-driven decision making in my next role.<br><br>
 I'm currently building my front-end knowledge through working on personal projects in my spare time.<br><br>
 </p>
 
