@@ -1,11 +1,21 @@
-<h1>Anna Truong </h1>
-<p>Hello! 👋🏻 a former Software Engineer now pivoting into Data Analytics.<br><br>
-My journey into tech began while working as an Account Manager at a marketing agency, where I started automating manual processes to improve efficiency. That curiosity turned into a career in software development, where I focused on backend engineering, building data warehouses, developing tailored business applications, and deploying solutions on Google Cloud Platform with strong CI/CD practices.<br><br>
-After some time in engineering, I'm now channeling my analytical mindset and technical skills into the world of data. I'm currently deepening my expertise through hands-on courses in data analysis, and working on projects that blend data storytelling with real-world insights.<br><br>
-I'm passionate about uncovering meaningful patterns in data, and I'm excited to contribute to data-driven decision making in my next role.<br><br>
-</p>
+<h1>Hi, I'm Anna 👋🏻</h1>
+<p>I'm a developer currently building my skills in Python and web development.<br><br>
+I enjoy creating practical projects that solve real problems and using them as a way to learn new technologies. I'm currently working on a Hiking Difficulty Calculator — a Flask application inspired by my own experience as a beginner hiker. The project has grown from a simple Python terminal application into a web application, with future plans to add GPX route analysis, saved hikes, and more.<br><br>
 
-<h2>💻 Languages and Tools</h2>
+<h2>🛠️ Technologies I'm learning and usings</h2>
+<ol>
+  <li>Python [![My Skills](https://skillicons.dev/icons?i=py)](https://skillicons.dev)</li>
+  <li>Flask [![My Skills](https://skillicons.dev/icons?i=flask)](https://skillicons.dev)</li>
+  <li>HTML & CSS [![My Skills](https://skillicons.dev/icons?i=html,css)](https://skillicons.dev)</li>
+  <li>Tailwind CSS [![My Skills](https://skillicons.dev/icons?i=tailwind)](https://skillicons.dev)</li>
+  <li>Git & GitHub [![My Skills](https://skillicons.dev/icons?i=git,github)](https://skillicons.dev)</li>
+</ol>
 
-[![My Skills](https://skillicons.dev/icons?i=js,nodejs,ts,html,css,bootstrap,prisma,jest,postman,gcp,git)](https://skillicons.dev)
+<h2>🌱 Current focus</h2>
+<ol>
+  <li>Building full-stack Python applications</li>
+  <li>Improving my understanding of software structure and best practices</li>
+  <li>Learning testing and deployment workflows</li>
+  <li>Creating projects that I can share and continue improving</li>
+</ol>
 
