@@ -5,10 +5,10 @@ I enjoy creating practical projects that solve real problems and using them as a
 <h2>🛠️ Technologies I'm learning and usings</h2>
 <ol>
   <li>Python [![My Skills](https://skillicons.dev/icons?i=py)](https://skillicons.dev)</li>
-  <li>Flask [![My Skills](https://skillicons.dev/icons?i=flask)](https://skillicons.dev)</li>
+  <!-- <li>Flask [![My Skills](https://skillicons.dev/icons?i=flask)](https://skillicons.dev)</li>
   <li>HTML & CSS [![My Skills](https://skillicons.dev/icons?i=html,css)](https://skillicons.dev)</li>
   <li>Tailwind CSS [![My Skills](https://skillicons.dev/icons?i=tailwind)](https://skillicons.dev)</li>
-  <li>Git & GitHub [![My Skills](https://skillicons.dev/icons?i=git,github)](https://skillicons.dev)</li>
+  <li>Git & GitHub [![My Skills](https://skillicons.dev/icons?i=git,github)](https://skillicons.dev)</li> -->
 </ol>
 
 <h2>🌱 Current focus</h2>
