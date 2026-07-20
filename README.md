@@ -10,7 +10,7 @@ I enjoy creating practical projects that solve real problems and using them as a
   <li>Tailwind CSS [![My Skills](https://skillicons.dev/icons?i=tailwind)](https://skillicons.dev)</li>
   <li>Git & GitHub [![My Skills](https://skillicons.dev/icons?i=git,github)](https://skillicons.dev)</li> -->
 </ol>
-[![My Skills](https://skillicons.dev/icons?i=py)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
 <h2>🌱 Current focus</h2>
 <ol>
   <li>Building full-stack Python applications</li>
